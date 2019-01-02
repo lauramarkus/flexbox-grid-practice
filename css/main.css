@@ -97,22 +97,22 @@ textarea {
 
 
 html {
-  background-color: #fff;
+  background-color: darkslategray;
   height: 100%;
 }
 
 body {
   font-family: 'Source Sans Pro', sans-serif;
   padding: 2em;
-  font-size: 1.25em;
+  font-size: 1em;
   height: 100%;
 }
 
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
-  font-weight: 700;
+  font-weight: normal;
   display:flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .div-1, .div-2, .div-3 {
